@@ -10,3 +10,5 @@ An Educational and Tourism Website
 - Tourism
 - About
 - Contact
+- Mission
+- Vision
