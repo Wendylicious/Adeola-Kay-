@@ -1,3 +1,12 @@
-#adeolakay
-This adeolakay read me file
-This website will contain vision statements about us
+#Readme
+
+#Adeola Kay
+
+An Educational and Tourism Website
+
+##Features
+- Home
+- Education
+- Tourism
+- About
+- Contact
