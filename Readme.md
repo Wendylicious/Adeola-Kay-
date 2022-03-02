@@ -1,3 +1,3 @@
 #adeolakay
 This adeolakay read me file
-This file will contain some features 
+This website will contain vision statements about us
